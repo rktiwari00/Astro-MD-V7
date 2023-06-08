@@ -8,7 +8,7 @@
 
 ### Replit Deploy
 1. ***Create Replit Account From [Here](https://replit.com/).***
-2. ***[Deploy on Replit](https://replit.com/github/vihangayt0/Astro-MD-V7-Replit).*** ***[[Tutorial]](https://youtu.be/rMycIWfmVQ4)***
+2. ***[Deploy on Replit](https://replit.com/github/rktiwari00/Astro-MD-V7/edit/Astro-MD-V7).*** ***[[Tutorial]](https://youtu.be/rMycIWfmVQ4)***
 3. ***Add Bot Website To Uptimer From [Here](https://uptimerobot.com/).***
 
 
